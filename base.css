@@ -3,6 +3,16 @@
 @import url('https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css');
 ::selection {background:var(--main-color-faded) !important;}
 /*
+  /$$$$$$
+ /$$__  $$
+| $$  \ $$ /$$   /$$  /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$
+| $$$$$$$$| $$  | $$ /$$__  $$ /$$__  $$ /$$__  $$|____  $$
+| $$__  $$| $$  | $$| $$  \__/| $$  \ $$| $$  \__/ /$$$$$$$
+| $$  | $$| $$  | $$| $$      | $$  | $$| $$      /$$__  $$
+| $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
+|__/  |__/ \______/ |__/       \______/ |__/      \_______/
+	       		By Tropical
+
 TABLE OF CONTENTS
 
 1. Background and Sizing
@@ -266,7 +276,7 @@ body::before {
     padding-top:0px !important;
 }
 .wordmark-2iDDfm:after {
-	content:'Momento Mori';
+	content:'Momento Mori v2.8';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
@@ -3659,7 +3669,7 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
 
 /*9.u Changelog*/
 #bd-settingspane-container .bda-slist::before {
-  content:"What's new in Momento Mori 2.9\A This Theme is Managed by Key and will be updated whenever changes may arise <3.";
+  content:"Welcome to Momento Mori";
   display: block;
   line-height:22px;
   font-size:18px;
